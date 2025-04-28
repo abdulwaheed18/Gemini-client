@@ -11,7 +11,7 @@ This is a Spring Boot 3.x application that exposes REST endpoints to interact wi
 
 1. **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone gemini-client
     cd gemini-client
     ```
 
