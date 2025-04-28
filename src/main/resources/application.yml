@@ -1,0 +1,10 @@
+gemini:
+  api:
+    key: <YOUR_API_KEY>
+
+spring:
+  application:
+    name: gemini-client
+
+server:
+  port: 8080
